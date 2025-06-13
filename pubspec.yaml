@@ -1,0 +1,29 @@
+name: virtual_try_on
+description: A virtual try-on demo with Segmind API
+publish_to: "none"
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+  image_picker: ^1.0.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/clothes/shirt1.png
+    - assets/clothes/hoodie.png
+    - assets/clothes/jacket.png
+    - assets/clothes/shirt001.png
+
+
+
+
+
+
+
+
