@@ -20,6 +20,10 @@ flutter:
     - assets/clothes/jacket.png
     - assets/clothes/shirt001.png
 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
 
 
 
